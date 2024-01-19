@@ -1,0 +1,62 @@
+the link of weak 1 questions
+https://codeforces.com/group/Hag8K9hH54/contest/474864
+
+
+check the correction solutions and questions \/ \/ \/
+
+****************** A. Say Hello ******************
+-------------------------------------------------------------------------
+Medo is a very nice person. Whenever Medo knows somebody's name he says "Hello, (name)".
+
+Given a name S. Print "Hello, (name)", without quotes and parentheses.
+
+Input
+Only one line containing a string S.
+
+Output
+Print "Hello, " without quotes, then print name.
+-------------------------------------------------------------------------
+****************** B. Basic calculator ******************
+Recently, Ouda made a simple calculator for basic mathematical operations and he wanted to test it. Ouda will test it with a mathematical expression.
+
+The expression will be one of the following expressions: A+B, A−B , A∗B and A/B.
+
+What result should it be for the mathematical expression?
+
+Note : For the dividing operation you should print the division without any fractions.
+
+Input
+One line contains A,S and B (1≤A,B≤109) , S is either (+,−,∗,/).
+
+Output
+Print the result of the mathematical expression.
+-------------------------------------------------------------------------
+****************** C. Solve the Assignment ******************
+Gom3a is studying discrete mathematics in collage and he faced an assignment that he couldn't solve.
+
+The assignment is to calculate the sum of numbers from 1 to N.
+
+Input
+The input consists of an integer n (1≤n≤109).
+
+Output
+Print the summation of numbers that are between 1 and N (inclusive).
+-------------------------------------------------------------------------
+****************** D. Balls Box ******************
+Ouda and Gom3a are playing a simple game. They have a box full of balls, where each ball carries some number on it and each of Ouda and Gom3a will choose a ball randomly.
+
+Given a number x and two numbers, a for Ouda and b for Gom3a
+
+If a is multiple of x or x is multiple of a, Ouda will win.
+If b is multiple of x or x is multiple of b, Gom3a will win.
+If both of them win or both lose print "Draw".
+Print the winner's name.
+Note : x is a multiple of y if the result of xy is an integer number.
+
+Input
+Only one line containing three numbers a,b,x (1≤a,b,x≤106) – Ouda chooses number a and Gom3a chooses number b
+.
+
+Output
+Print the winner's name, or print "Draw" if both win or both lose.
+
